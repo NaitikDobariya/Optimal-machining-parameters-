@@ -13,11 +13,12 @@ Once trained, the machine learning models serve as surrogate functions, enabling
 ### Trained Models and Results
 
 The project includes trained models using both neural network and SVR approaches. Below are the predicted vs real value plots for each:
+
 Trained Neural Network:
-![bc70d262-b11f-428a-825e-199107f90f35](https://github.com/NaitikDobariya/Optimal-machining-parameters-/assets/113834773/991b5227-f179-4ee6-86c4-31c4b54caa0d)
+![Trained Neural Network](https://github.com/NaitikDobariya/Optimal-machining-parameters-/assets/113834773/991b5227-f179-4ee6-86c4-31c4b54caa0d)
 
 Trained Support Vector Regressor:
-![67873d82-fa86-4da3-854d-ade5f2afe25b](https://github.com/NaitikDobariya/Optimal-machining-parameters-/assets/113834773/cfeefc61-3116-40c8-a9db-f6a351b1380e)
+![Trained Support Vector Regressor](https://github.com/NaitikDobariya/Optimal-machining-parameters-/assets/113834773/cfeefc61-3116-40c8-a9db-f6a351b1380e)
 
 Based on the comparison, the support vector regressor exhibited superior performance and was selected for further optimization.
 
